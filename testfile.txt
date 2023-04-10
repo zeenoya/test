@@ -1,0 +1,6 @@
+# commit first
+# github desktop 깔고
+#vscode 깔고
+#git-scm 깔고
+#연동완료
+# dohhh
